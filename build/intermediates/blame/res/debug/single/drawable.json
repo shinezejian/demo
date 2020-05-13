@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_shadow_btn_back.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_shadow_btn_back.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_browser_progress_style.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_browser_progress_style.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/circle_big_red.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/circle_big_red.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_refreshing_video_textpage.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_refreshing_video_textpage.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/cat.png",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/cat.png"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_ad_cover_btn_draw_begin_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/tt_ad_cover_btn_draw_begin_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_skip_text_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_skip_text_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_titlebar_close_seletor.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_titlebar_close_seletor.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/splash_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/splash_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/btn_bg_blue.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/btn_bg_blue.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_reward_full_new_bar_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_reward_full_new_bar_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_reward_countdown_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_reward_countdown_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_video_black_desc_gradient.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_video_black_desc_gradient.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/downloadicon.png",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/downloadicon.png"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_titlebar_close_seletor_for_dark.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_titlebar_close_seletor_for_dark.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-compat/28.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_custom_dialog_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_custom_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_dislike_top_seletor.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_dislike_top_seletor.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_privacy_btn_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_privacy_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_list_divider_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_reward_video_download_btn_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_reward_video_download_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_privacy_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_privacy_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_seek_progress.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_seek_progress.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_privacy_webview_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_privacy_webview_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_dislike_bottom_seletor.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_dislike_bottom_seletor.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-compat/28.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-compat/28.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_detail_video_btn_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_detail_video_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_ad_download_progress_bar_horizontal.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_ad_download_progress_bar_horizontal.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/call.png",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/call.png"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_seek_thumb_fullscreen.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_seek_thumb_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_download_corner_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_download_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_leftbackbutton_titlebar_photo_preview.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_leftbackbutton_titlebar_photo_preview.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_play_movebar_textpage.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_play_movebar_textpage.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_dislike_cancle_bg_selector.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_dislike_cancle_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_ad_skip_btn_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_ad_skip_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_seek_thumb_fullscreen_selector.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_seek_thumb_fullscreen_selector.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_install_bk.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_install_bk.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_leftbackicon_selector_for_dark.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_leftbackicon_selector_for_dark.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_video_loading_progress_bar.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_video_loading_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_ad_cover_btn_begin_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/tt_ad_cover_btn_begin_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/common_sticker_header_bg_shape.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/common_sticker_header_bg_shape.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_circle_solid_mian.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_circle_solid_mian.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/circle_solid_main.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/circle_solid_main.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_shadow_btn_back_withoutnight.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_shadow_btn_back_withoutnight.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_video_traffic_continue_play_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_video_traffic_continue_play_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_stop_movebar_textpage.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_stop_movebar_textpage.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_video_progress_drawable.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_video_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_reward_full_video_backup_btn_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_reward_full_video_backup_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_browser_download_selector.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_browser_download_selector.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/btn_bg_blue_playable.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/btn_bg_blue_playable.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_dislike_top_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_dislike_top_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_video_progress.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_video_progress.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_seek_thumb.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_reward_full_new_bar_btn_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_reward_full_new_bar_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-compat/28.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_mute_btn_bg.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_mute_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/btn_bg_creative.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/btn_bg_creative.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_install_btn_bk.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_install_btn_bk.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_close_move_detail.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_close_move_detail.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_ad_logo_background.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_ad_logo_background.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/border_input_box.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/border_input_box.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_leftbackicon_selector.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_leftbackicon_selector.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_seek_thumb_press.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_seek_thumb_press.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/btn_bg_red.xml",
+        "source": "/Users/wuzejian/Documents/demo/src/main/res/drawable/btn_bg_red.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_seek_thumb_normal.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_seek_thumb_normal.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_seek_thumb_fullscreen_press.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_seek_thumb_fullscreen_press.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/tt_dislike_middle_seletor.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/res/drawable/tt_dislike_middle_seletor.xml"
+    },
+    {
+        "merged": "/Users/wuzejian/Documents/demo/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/res/drawable/abc_item_background_holo_light.xml"
+    }
+]

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tt_cancle_bg">#FDDCDCDC</color>
+    <color name="tt_divider">#DCDCDC</color>
+    <color name="tt_download_app_name">#333333</color>
+    <color name="tt_download_bar_background">#C21E1E1E</color>
+    <color name="tt_download_bar_background_new">#E4FFFFFF</color>
+    <color name="tt_download_text_background">#4A90E2</color>
+    <color name="tt_draw_btn_back">#D33F57</color>
+    <color name="tt_full_screen_skip_bg">#904A4A4A</color>
+    <color name="tt_header_font">#FF9B9B9B</color>
+    <color name="tt_heise3">#999999</color>
+    <color name="tt_listview">#FDFFFFFF</color>
+    <color name="tt_listview_press">#FDE6E6E6</color>
+    <color name="tt_rating_comment">#999999</color>
+    <color name="tt_rating_comment_vertical">#4A4A4A</color>
+    <color name="tt_rating_star">#F5A623</color>
+    <color name="tt_skip_red">#FFDF112A</color>
+    <color name="tt_ssxinbaise4">@color/tt_white</color>
+    <color name="tt_ssxinbaise4_press">#7fffffff</color>
+    <color name="tt_ssxinheihui3">#999999</color>
+    <color name="tt_ssxinhongse1">#f85959</color>
+    <color name="tt_ssxinmian1">#e0e0e0</color>
+    <color name="tt_ssxinmian11">#e5000000</color>
+    <color name="tt_ssxinmian15">#7f000000</color>
+    <color name="tt_ssxinmian6">@color/tt_ssxinheihui3</color>
+    <color name="tt_ssxinmian7">@color/tt_ssxinhongse1</color>
+    <color name="tt_ssxinmian8">#2a90d7</color>
+    <color name="tt_ssxinxian11">@color/tt_ssxinbaise4</color>
+    <color name="tt_ssxinxian11_selected">@color/tt_ssxinbaise4_press</color>
+    <color name="tt_ssxinxian3">#2a90d7</color>
+    <color name="tt_ssxinxian3_press">#7f2a90d7</color>
+    <color name="tt_ssxinzi12">@color/tt_white</color>
+    <color name="tt_ssxinzi15">@color/tt_ssxinbaise4</color>
+    <color name="tt_ssxinzi4">@color/tt_ssxinhongse1</color>
+    <color name="tt_ssxinzi9">#cacaca</color>
+    <color name="tt_text_font">#FF4A4A4A</color>
+    <color name="tt_titlebar_background_dark">#46000000</color>
+    <color name="tt_titlebar_background_ffffff">#ffffff</color>
+    <color name="tt_titlebar_background_light">#e0e0e0</color>
+    <color name="tt_trans_black">#00000000</color>
+    <color name="tt_trans_half_black">#FF1A1A1A</color>
+    <color name="tt_transparent">#00000000</color>
+    <color name="tt_video_player_text">@color/tt_white</color>
+    <color name="tt_video_player_text_withoutnight">@color/tt_white</color>
+    <color name="tt_video_playerbg_color">#000000</color>
+    <color name="tt_video_shadow_color">#72000000</color>
+    <color name="tt_video_shaoow_color_fullscreen">#B2000000</color>
+    <color name="tt_video_time_color">#ffffff</color>
+    <color name="tt_video_traffic_tip_background_color">#000000</color>
+    <color name="tt_video_transparent">#1E000000</color>
+    <color name="tt_white">#ffffff</color>
+    <dimen name="tt_video_container_maxheight">228dp</dimen>
+    <dimen name="tt_video_container_minheight">160dp</dimen>
+    <dimen name="tt_video_cover_padding_horizon">15dp</dimen>
+    <dimen name="tt_video_cover_padding_vertical">14dp</dimen>
+    <integer name="tt_video_progress_max">100</integer>
+    <string name="app_name">applog_empty</string>
+    <string name="no_thank_you">No,thank you</string>
+    <string name="tt_00_00">00:00</string>
+    <string name="tt_ad">Ad</string>
+    <string name="tt_ad_clicked_text">Ad shown</string>
+    <string name="tt_ad_close_text">Ad closed</string>
+    <string name="tt_ad_data_error">Response data error</string>
+    <string name="tt_ad_logo_txt">AD</string>
+    <string name="tt_ad_showed_text">Ad showed</string>
+    <string name="tt_adslot_empty">No request ad slot</string>
+    <string name="tt_adslot_id_error">Illegal ad slot id</string>
+    <string name="tt_adslot_size_empty">Empty ad slot size</string>
+    <string name="tt_adtype_not_match_rit">Ad slot id error</string>
+    <string name="tt_app_empty">No request app</string>
+    <string name="tt_app_name">tt_open_ad_sdk</string>
+    <string name="tt_auto_play_cancel_text">Cancel</string>
+    <string name="tt_banner_ad_load_image_error">Banner loading failed</string>
+    <string name="tt_cancel">Cancel</string>
+    <string name="tt_comment_num">%1$s score</string>
+    <string name="tt_comment_num_backup">%1$s score</string>
+    <string name="tt_comment_score">Evaluation</string>
+    <string name="tt_confirm_download">"Are you sure to download when using non-Wifi network?"</string>
+    <string name="tt_confirm_download_have_app_name">"Prepare to download %s"</string>
+    <string name="tt_content_type">Http content type error</string>
+    <string name="tt_count_down_view">Skip</string>
+    <string name="tt_dislike_header_tv_back">Back</string>
+    <string name="tt_dislike_header_tv_title">Choose</string>
+    <string name="tt_error_access_method_pass">Illegal access method</string>
+    <string name="tt_error_ad_type">Illegal ad type</string>
+    <string name="tt_error_adtype_differ">Ad type error</string>
+    <string name="tt_error_apk_sign_check_error">Illegal apk sha1 value</string>
+    <string name="tt_error_code_adcount_error">Incorrect number of ad</string>
+    <string name="tt_error_code_click_event_error">Click event error</string>
+    <string name="tt_error_image_size">Illegal image size</string>
+    <string name="tt_error_media_id">Illegal media id</string>
+    <string name="tt_error_media_type">Illegal media type</string>
+    <string name="tt_error_new_register_limit">New ad slot exceeded daily request limit</string>
+    <string name="tt_error_origin_ad_error">Origin type error</string>
+    <string name="tt_error_package_name">Package name error</string>
+    <string name="tt_error_redirect">Redirect error</string>
+    <string name="tt_error_request_invalid">Invalid request</string>
+    <string name="tt_error_slot_id_app_id_differ">SlotId and AppId match error</string>
+    <string name="tt_error_splash_ad_type">Splash ad type error</string>
+    <string name="tt_error_union_os_error">Os type error</string>
+    <string name="tt_error_union_sdk_too_old">Sdk version too low</string>
+    <string name="tt_error_unknow">Unknown error</string>
+    <string name="tt_error_verify_reward">Reward verify error</string>
+    <string name="tt_feedback_experience_text">We will bring you a better advertising experience</string>
+    <string name="tt_feedback_submit_text">You have successfully submitted feedback, please do not submit it again</string>
+    <string name="tt_feedback_thank_text">Thanks for your feedback</string>
+    <string name="tt_frequent_call_erroe">Ad requests are too frequent</string>
+    <string name="tt_full_screen_skip_tx">Skip</string>
+    <string name="tt_get_reward">Get reward</string>
+    <string name="tt_insert_ad_load_image_error">Interstitial loading failed</string>
+    <string name="tt_label_cancel">Cancel</string>
+    <string name="tt_label_ok">OK</string>
+    <string name="tt_lack_android_manifest_configuration">Initialization check error, please check the AndroidManifest</string>
+    <string name="tt_load_creative_icon_error">Icon loading failed</string>
+    <string name="tt_load_creative_icon_response_error">Icon loading error</string>
+    <string name="tt_load_failed_text">Load fail</string>
+    <string name="tt_load_success_text">Load success</string>
+    <string name="tt_msgPlayable">Finish playing to get rewards</string>
+    <string name="tt_negtiveBtnBtnText">Give up rewards</string>
+    <string name="tt_negtive_txt">Cancel</string>
+    <string name="tt_net_error">Network error</string>
+    <string name="tt_no_ad">No ad</string>
+    <string name="tt_no_ad_parse">Parsing data without ad</string>
+    <string name="tt_no_network">"Network is unavailable, please try again later."</string>
+    <string name="tt_parse_fail">Parsing error</string>
+    <string name="tt_permission_denied">You have prohibited from authorizing operation, please authorize it</string>
+    <string name="tt_postiveBtnText">Continue playing</string>
+    <string name="tt_postiveBtnTextPlayable">Continue playing</string>
+    <string name="tt_postive_txt">OK</string>
+    <string name="tt_reder_ad_load_timeout">Template loading timeout</string>
+    <string name="tt_render_diff_template_invalid">Template diff invalid</string>
+    <string name="tt_render_fail_meta_invalid">Template invalid</string>
+    <string name="tt_render_fail_template_parse_error">Template parsing error</string>
+    <string name="tt_render_fail_timeout">Render timeout</string>
+    <string name="tt_render_fail_unknown">Render failed unknown</string>
+    <string name="tt_render_main_template_invalid">Main template invalid</string>
+    <string name="tt_render_render_parse_error">Render parsing failed</string>
+    <string name="tt_request_body_error">Request entity is empty</string>
+    <string name="tt_request_pb_error">Http request pb error</string>
+    <string name="tt_request_permission_descript_external_storage">Storage</string>
+    <string name="tt_request_permission_descript_location">Location information</string>
+    <string name="tt_request_permission_descript_read_phone_state">Dial</string>
+    <string name="tt_reward_feedback">feedback</string>
+    <string name="tt_reward_msg">Finish playing to claim rewards</string>
+    <string name="tt_reward_screen_skip_tx">Skip</string>
+    <string name="tt_reward_video_show_error">onRewardedVideoAdFailedToShow</string>
+    <string name="tt_ror_code_show_event_error">Show event error</string>
+    <string name="tt_skip_ad_time_text">Skip after %ds</string>
+    <string name="tt_splash_ad_load_image_error">Splash loading failed</string>
+    <string name="tt_splash_cache_expired_error">Cache expired</string>
+    <string name="tt_splash_cache_parse_error">Cache parsing failed</string>
+    <string name="tt_splash_not_have_cache_error">No splash cache</string>
+    <string name="tt_splash_skip_tv">3s | Skip</string>
+    <string name="tt_sys_error">System error</string>
+    <string name="tt_tip">Tip</string>
+    <string name="tt_toast_ad_on_rewarded">Ad on rewarded</string>
+    <string name="tt_toast_later_download">Download later</string>
+    <string name="tt_toast_no_ad">No Ad to Show, Please Load Ad</string>
+    <string name="tt_toast_start_loading">Start Loading</string>
+    <string name="tt_toast_tiktok_ad_failed">TikTok Ad Failed to load, error code is:</string>
+    <string name="tt_txt_skip">Skip</string>
+    <string name="tt_unlike">Unlike</string>
+    <string name="tt_video_bytesize">Data</string>
+    <string name="tt_video_bytesize_M">M</string>
+    <string name="tt_video_bytesize_MB">MB</string>
+    <string name="tt_video_continue_play">ContinueToPlay</string>
+    <string name="tt_video_dial_phone">DialNow</string>
+    <string name="tt_video_download_apk">Download</string>
+    <string name="tt_video_mobile_go_detail">ViewDetails</string>
+    <string name="tt_video_retry_des">Loading failed. Click to try again</string>
+    <string name="tt_video_retry_des_txt">load fail ，please retry</string>
+    <string name="tt_video_without_wifi_tips">Playing this content will use %.2f MB of data</string>
+    <string name="tt_wap_empty">No request wap</string>
+    <string name="tt_web_title_default">Advertise</string>
+    <string name="tt_will_play">PlayNow</string>
+    <string name="yes_i_agree">Yes, I agree</string>
+    <style name="Theme.Dialog.TTDownload" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="Theme.Dialog.TTDownloadOld" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="tt_Widget_ProgressBar_Horizontal">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/tt_ad_download_progress_bar_horizontal</item>
+        <item name="android:minHeight">20dip</item>
+        <item name="android:maxHeight">20dip</item>
+    </style>
+    <style name="tt_back_view">
+        <item name="android:minHeight">44dp</item>
+        <item name="android:layout_marginLeft">12dp</item>
+        <item name="android:text">"关闭"</item>
+        <!-- TextView in MX3 don't respond to click event if text is null -->
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="tt_custom_dialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tt_dislikeDialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowAnimationStyle">@style/tt_dislikeDialogAnimation</item>
+    </style>
+    <style name="tt_dislikeDialogAnimation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/tt_dislike_animation_show</item>
+        <item name="android:windowExitAnimation">@anim/tt_dislike_animation_dismiss</item>
+    </style>
+    <style name="tt_privacy_dialogTheme" parent="@android:style/Theme.Dialog">
+        <!-- 边框 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:windowBackground">@drawable/tt_privacy_bg</item>
+        <!-- 模糊 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 遮罩层 -->
+        <item name="android:backgroundDimAmount">0.5</item>
+    </style>
+    <style name="tt_ss_popup_toast_anim" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@android:anim/fade_in</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+    <style name="tt_wg_insert_dialog" parent="android:style/Theme.Dialog">
+        <!--背景颜色及和透明程度-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!--是否去除标题 -->
+        <item name="android:windowNoTitle">true</item>
+        <!--是否去除边框-->
+        <item name="android:windowFrame">@null</item>
+        <!--是否浮现在activity之上-->
+        <item name="android:windowIsFloating">true</item>
+        <!--是否模糊-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="tt_widget_gifView" parent="@android:style/Widget"/>
+</resources>

@@ -1,0 +1,556 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:2:1-171:12
+	package
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:4:5-37
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:6:5-28:47
+MERGED from [com.android.support:multidex:1.0.1] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:7:5-9:41
+MERGED from [:android-gif-drawable-1.2.6:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/android-gif-drawable-1.2.6/AndroidManifest.xml:7:5-9:41
+MERGED from [:circleimageview-2.2.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/circleimageview-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [:LayoutManagerGroup:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/LayoutManagerGroup/AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5.4] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android-no-op/1.5.4/AndroidManifest.xml:20:5-44
+MERGED from [:mopub-sdk-base-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-base-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:mopub-sdk-rewardedvideo-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-rewardedvideo-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:mopub-sdk-banner-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-banner-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:mopub-sdk-interstitial-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-interstitial-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:mopub-sdk-native-static-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-native-static-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [:mopub-sdk-native-video-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-native-video-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-v4/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-media-compat/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-fragment/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-core-ui/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-core-utils/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/documentfile/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/loader/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/android.arch.lifecycle/livedata/1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/android.arch.lifecycle/livedata-core/1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/android.arch.core/runtime/1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/android.arch.lifecycle/viewmodel/1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/localbroadcastmanager/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/print/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/viewpager/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/coordinatorlayout/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/drawerlayout/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/slidingpanelayout/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/customview/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/swiperefreshlayout/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/interpolator/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/asynclayoutinflater/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-compat/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/versionedparcelable/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/cursoradapter/28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/17.2.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-identifier/16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement-sdk-api/16.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement-base/16.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-base/17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/16.0.1/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:6:5-28:47
+	android:targetSdkVersion
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:31:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement-sdk-api/16.3.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:31:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:32:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement-sdk-api/16.3.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:32:5-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:35:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement-sdk-api/16.3.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:35:22-75
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:34:5-38:79
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:35:9-40
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:33:5-39:78
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:34:9-40
+uses-permission#android.permission.EXPAND_STATUS_BAR
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:39:9-40:76
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:39:19-70
+application
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:47:9-168:19
+MERGED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:18:5-71:19
+MERGED from [:circleimageview-2.2.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/circleimageview-2.2.0/AndroidManifest.xml:9:5-20
+MERGED from [:mopub-sdk-base-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-base-5.8.0/AndroidManifest.xml:11:5-20
+MERGED from [:mopub-sdk-rewardedvideo-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-rewardedvideo-5.8.0/AndroidManifest.xml:11:5-20
+MERGED from [:mopub-sdk-banner-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-banner-5.8.0/AndroidManifest.xml:11:5-20
+MERGED from [:mopub-sdk-interstitial-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-interstitial-5.8.0/AndroidManifest.xml:11:5-20
+MERGED from [:mopub-sdk-native-static-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-native-static-5.8.0/AndroidManifest.xml:11:5-20
+MERGED from [:mopub-sdk-native-video-5.8.0:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/mopub-sdk-native-video-5.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-compat/28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/versionedparcelable/28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-identifier/16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement-sdk-api/16.3.0/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement-base/16.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-base/17.2.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/16.0.1/AndroidManifest.xml:22:5-26:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.android.support/support-compat/28.0.0/AndroidManifest.xml:22:18-91
+	tools:ignore
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:47:9-168:19
+	android:allowBackup
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:47:9-168:19
+	android:icon
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:47:9-168:19
+	android:networkSecurityConfig
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:47:9-168:19
+	android:theme
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:47:9-168:19
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:48:13-50
+	android:usesCleartextTraffic
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:18:18-53
+activity#com.mopub.MopubRewardedVideoActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:46:9-50:73
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:47:13-50
+activity#com.mopub.MopubBannerActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:54:9-55:75
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:54:9-55:75
+	android:windowSoftInputMode
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:54:9-55:75
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:54:9-55:75
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:55:13-57
+activity#com.mopub.MopubInterstitialActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:53:9-56:72
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:54:13-57
+activity#com.union_test.toutiao.activity.adapter.MopubAdapterActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:56:9-57:75
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:57:13-61
+activity#com.mopub.MopubFullVideoActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:55:9-58:69
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:56:13-61
+activity#com.union_test.toutiao.activity.MainActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:61:9-68:20
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:61:9-68:20
+	android:launchMode
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:61:9-68:20
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:69:13-74
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:62:13-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:61:9-67:29
+action#android.intent.action.MAIN
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:64:9-65:69
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:64:9-65:69
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:64:9-66:77
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:65:13-57
+activity#com.union_test.toutiao.activity.RewardVideoActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:72:9-73:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:72:9-73:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:72:9-73:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:73:13-69
+activity#com.union_test.toutiao.activity.FullScreenVideoActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:78:9-52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:78:9-52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:78:9-52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:78:19-94
+provider#com.bytedance.sdk.openadsdk.multipro.TTMultiProvider
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:83:9-84:40
+	android:authorities
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:83:9-84:40
+		INJECTED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml
+	android:exported
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:83:9-84:40
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:84:13-91
+activity#com.mopub.common.MoPubBrowser
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:86:9-89:77
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:88:13-68
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:87:13-71
+activity#com.mopub.mobileads.MoPubActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:89:9-92:77
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:91:13-68
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:90:13-68
+activity#com.mopub.mobileads.MraidActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:92:9-95:77
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:94:13-68
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:93:13-61
+activity#com.mopub.mobileads.RewardedMraidActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:95:9-98:77
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:97:13-68
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:96:13-69
+activity#com.mopub.mobileads.MraidVideoPlayerActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:98:9-101:77
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:100:13-68
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:99:13-78
+activity#com.google.ads.mediation.sample.activity.AdmobBannerActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:101:9-103:97
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:102:13-74
+activity#com.google.ads.mediation.sample.activity.AdmobInterstitialActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:103:9-104:103
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:104:13-69
+activity#com.google.ads.mediation.sample.activity.AdmobRewardVideoActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:107:9-108:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:107:9-108:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:107:9-108:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:108:13-73
+activity#com.google.ads.mediation.sample.activity.AdmobFullVideoActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:111:9-112:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:111:9-112:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:111:9-112:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:112:13-66
+activity#com.union_test.toutiao.activity.adapter.AdapterGoogleMainActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:115:9-116:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:115:9-116:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:115:9-116:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:116:13-61
+activity#com.union_test.toutiao.activity.expressad.AllExpressAdActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:119:9-120:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:119:9-120:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:119:9-120:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:120:13-70
+activity#com.union_test.toutiao.activity.adapter.AdapterActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:123:9-124:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:123:9-124:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:123:9-124:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:124:13-63
+activity#com.union_test.toutiao.activity.expressad.BannerExpressActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:127:9-128:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:127:9-128:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:127:9-128:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:128:13-67
+activity#com.union_test.toutiao.activity.expressad.DrawNativeExpressVideoActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:131:9-132:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:131:9-132:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:131:9-132:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:132:13-66
+activity#com.union_test.toutiao.activity.expressad.InteractionExpressActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:135:9-136:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:135:9-136:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:135:9-136:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:136:13-67
+activity#com.union_test.toutiao.activity.expressad.NativeExpressActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:139:9-140:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:139:9-140:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:139:9-140:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:140:13-72
+activity#com.union_test.toutiao.activity.expressad.NativeExpressListActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:143:9-144:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:143:9-144:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:143:9-144:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:144:13-63
+activity#com.union_test.toutiao.activity.nativead.AllNativeAdActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:147:9-148:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:147:9-148:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:147:9-148:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:148:13-66
+activity#com.union_test.toutiao.activity.nativead.BannerActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:151:9-152:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:151:9-152:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:151:9-152:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:152:13-68
+activity#com.union_test.toutiao.activity.nativead.DrawNativeVideoActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:155:9-156:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:155:9-156:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:155:9-156:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:156:13-67
+activity#com.union_test.toutiao.activity.nativead.FeedListActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:159:9-160:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:159:9-160:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:159:9-160:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:160:13-69
+activity#com.union_test.toutiao.activity.nativead.FeedRecyclerActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:163:9-164:52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:163:9-164:52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:163:9-164:52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:164:13-58
+activity#com.union_test.toutiao.activity.nativead.InteractionActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+activity#com.union_test.toutiao.activity.nativead.NativeBannerActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+activity#com.union_test.toutiao.activity.nativead.NativeInteractionActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+activity#com.union_test.toutiao.activity.testtools.GpsToolActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+activity#com.union_test.toutiao.activity.testtools.IpPortToolActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+activity#com.union_test.toutiao.activity.testtools.PlayableToolActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+activity#com.union_test.toutiao.activity.testtools.AllTestToolActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:screenOrientation
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:configChanges
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-52
+activity#com.mopub.MopubNativeListActivity
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-70
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-70
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-70
+	android:value
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-70
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-70
+meta-data#com.google.android.gms.version
+ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-69
+	android:name
+		ADDED from /Users/wuzejian/Documents/demo/src/main/AndroidManifest.xml:168:1-69
+activity#com.bytedance.sdk.openadsdk.activity.TTLandingPageActivity
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:21:9-24:45
+	android:launchMode
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:24:13-42
+	android:configChanges
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:23:13-74
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:22:13-86
+activity#com.bytedance.sdk.openadsdk.activity.TTPlayableLandingPageActivity
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:25:9-28:45
+	android:launchMode
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:28:13-42
+	android:configChanges
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:27:13-74
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:26:13-94
+activity#com.bytedance.sdk.openadsdk.activity.TTVideoLandingPageActivity
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:29:9-32:45
+	android:launchMode
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:32:13-42
+	android:configChanges
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:31:13-74
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:30:13-91
+activity#com.bytedance.sdk.openadsdk.activity.TTRewardVideoActivity
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:33:9-36:45
+	android:launchMode
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:36:13-42
+	android:configChanges
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:34:13-86
+activity#com.bytedance.sdk.openadsdk.activity.TTRewardExpressVideoActivity
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:37:9-40:45
+	android:launchMode
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:40:13-42
+	android:configChanges
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:38:13-93
+activity#com.bytedance.sdk.openadsdk.activity.TTFullScreenVideoActivity
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:41:9-44:45
+	android:launchMode
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:44:13-42
+	android:configChanges
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:42:13-90
+activity#com.bytedance.sdk.openadsdk.activity.TTFullScreenExpressVideoActivity
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:45:9-48:45
+	android:launchMode
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:48:13-42
+	android:configChanges
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:47:13-74
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:46:13-97
+activity#com.bytedance.sdk.openadsdk.activity.TTDelegateActivity
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:49:9-52:75
+	android:launchMode
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:51:13-42
+	android:theme
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:50:13-83
+activity#com.bytedance.sdk.openadsdk.activity.TTWebsiteActivity
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:53:9-56:75
+	android:launchMode
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:55:13-42
+	android:theme
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:56:13-72
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:54:13-82
+service#com.bytedance.sdk.openadsdk.multipro.aidl.BinderPoolService
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:58:9-95
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:58:18-92
+receiver#com.com.bytedance.overseas.sdk.download.GooglePlayInstallReceiver
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:60:9-66:20
+	android:exported
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:61:13-93
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:63:13-65:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:64:17-79
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:64:25-76
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:68:9-70:36
+	android:value
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:70:13-33
+	android:name
+		ADDED from [:open_ad_sdk:] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/open_ad_sdk/AndroidManifest.xml:69:13-69
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] /Users/wuzejian/Documents/demo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/17.2.0/AndroidManifest.xml:36:13-76

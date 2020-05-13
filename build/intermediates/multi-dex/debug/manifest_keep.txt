@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:22
+-keep class com.union_test.toutiao.DemoApplication { <init>(...); }
+
